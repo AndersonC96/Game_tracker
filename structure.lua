@@ -5,8 +5,8 @@ project/
 |-- backlog.php
 |-- download.php
 |-- includes/
-|   |-- header.php
-|   |-- footer.php
+|   |-- header.php • --Feito
+|   |-- footer.php • --Feito
 |-- api/
 |   |-- rawg_api.php
 |-- database/
