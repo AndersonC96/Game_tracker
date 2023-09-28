@@ -10,7 +10,7 @@
         descricao TEXT,
         logo_url VARCHAR(255)
     )";//comando SQL para criar a tabela de jogos
-    $sql = "CREATE TABLE plataformas(
+    /*$sql = "CREATE TABLE plataformas(
         id INT AUTO_INCREMENT PRIMARY KEY,
         nome VARCHAR(255) NOT NULL,
         imagem_url VARCHAR(255)
@@ -19,9 +19,9 @@
         id INT AUTO_INCREMENT PRIMARY KEY,
         nome VARCHAR(255) NOT NULL,
         imagem_url VARCHAR(255)
-    );";//comando SQL para criar a tabela de lojas
+    );";//comando SQL para criar a tabela de lojas*/
     if(mysqli_query($conn, $sql)){//caso a tabela seja criada com sucesso, exibe uma mensagem de sucesso
-        echo "Tabela de jogos criada com sucesso!";//mensagem de sucesso
+        echo "Tabela criada com sucesso!";//mensagem de sucesso
     }else{//caso ocorra algum erro, exibe uma mensagem de erro
         echo "Erro ao criar a tabela de jogos: " . mysqli_error($conn);//mensagem de erro
     }
