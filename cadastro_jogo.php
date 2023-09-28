@@ -45,9 +45,9 @@
             <label for="status"><b>Status</b></label>
             <select class="form-control" name="status" required>
                 <option value="Finalizei">Abandonado</option>
-                <option value="Finalizei">Finalizei</option>
+                <option value="Finalizei">Finalizado</option>
                 <option value="Jogando">Jogando</option>
-                <option value="Joguei">Joguei</option>
+                <option value="Joguei">Jogado</option>
                 <option value="Quero Jogar">Quero Jogar</option>
                 <option value="Não">Não</option>
             </select>
