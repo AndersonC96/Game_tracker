@@ -22,6 +22,6 @@ project/
 |       |-- store/
 |           |-- loja1.jpg
 |           |-- loja2.jpg
-|       |-- favicon.png
+|       |-- favicon.png • --Feito
 |-- css/
 |   |-- style.css
