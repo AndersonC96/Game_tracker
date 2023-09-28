@@ -14,12 +14,12 @@ project/
 |   |-- db_config.php • --Feito
 |   |-- db_connect.php • --Feito
 |   |-- create_tables.php • --Feito
-|-- assets/
-|   |-- images/
-|       |-- platform/
+|-- assets/ • --Feito
+|   |-- images/ • --Feito
+|       |-- platform/ • --Feito
 |           |-- plataforma1.jpg
 |           |-- plataforma2.jpg
-|       |-- store/
+|       |-- store/ • --Feito
 |           |-- loja1.jpg
 |           |-- loja2.jpg
 |       |-- favicon.png • --Feito
