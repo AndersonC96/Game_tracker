@@ -8,6 +8,7 @@ project/
 |   |-- header.php • --Feito
 |   |-- footer.php • --Feito
 |-- api/
+|   |-- config.php
 |   |-- rawg_api.php
 |-- database/
 |   |-- db_config.php • --Feito
