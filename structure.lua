@@ -1,5 +1,5 @@
 project/
-|-- index.php
+|-- index.php • --Feito
 |-- cadastro_jogo.php
 |-- adquiridos.php
 |-- backlog.php
