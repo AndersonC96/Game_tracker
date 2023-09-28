@@ -1,6 +1,6 @@
 project/
 |-- index.php • --Feito
-|-- cadastro_jogo.php
+|-- cadastro_jogo.php • --Feito
 |-- adquiridos.php
 |-- backlog.php
 |-- download.php
