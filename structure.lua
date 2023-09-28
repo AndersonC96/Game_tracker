@@ -16,9 +16,12 @@ project/
 |   |-- create_tables.php • --Feito
 |-- assets/
 |   |-- images/
-|       |-- plataforma1.jpg
-|       |-- plataforma2.jpg
-|       |-- loja1.jpg
-|       |-- loja2.jpg
+|       |-- platform/
+|           |-- plataforma1.jpg
+|           |-- plataforma2.jpg
+|       |-- store/
+|           |-- loja1.jpg
+|           |-- loja2.jpg
+|       |-- favicon.png
 |-- css/
 |   |-- style.css
