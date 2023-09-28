@@ -10,9 +10,9 @@ project/
 |-- api/
 |   |-- rawg_api.php
 |-- database/
-|   |-- db_config.php
-|   |-- db_connect.php
-|   |-- create_tables.php
+|   |-- db_config.php • --Feito
+|   |-- db_connect.php • --Feito
+|   |-- create_tables.php • --Feito
 |-- assets/
 |   |-- images/
 |       |-- plataforma1.jpg
